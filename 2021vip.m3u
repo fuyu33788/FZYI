@@ -1,77 +1,77 @@
 #EXTM3U
 #EXTINF:-1 radio="true" tvg-shift="沈阳移动" tvg-id="CCTV-1综合高清" tvg-name="cctv1" tvg-logo="https://s21.ax1x.com/2025/04/08/pEg9L6O.png" group-title="加台标",CCTV1
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226443/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227637/index.m3u8
 #EXTINF:-1 radio="true" tvg-shift=" " tvg-id="CCTV-2经济高清" tvg-name="cctv2" tvg-logo="https://s21.ax1x.com/2025/04/08/pEg97fx.png" group-title="加台标",CCTV2
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226178/index.m3u8
 #EXTINF:-1 tvg-shift="沈阳移动" tvg-id="CCTV-3综艺高清" tvg-name="cctv3" tvg-logo="https://s21.ax1x.com/2025/04/08/pEg9q1K.png" group-title="加台标",CCTV3
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227437/index.m3u8
 #EXTINF:-1 tvg-shift="沈阳移动" tvg-id="CCTV-4中文国际高清" tvg-name="cctv4" tvg-logo="https://s21.ax1x.com/2025/04/08/pEg9bp6.png" group-title="加台标",CCTV4
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226636/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226176/index.m3u8
 #EXTINF:-1 tvg-shift=" " tvg-id="CCTV-5体育高清" tvg-name="cctv5" tvg-logo="https://s21.ax1x.com/2025/04/08/pEg9OXD.png" group-title="加台标",CCTV5
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227425/index.m3u8
 #EXTINF:-1 tvg-shift=" " tvg-id=" " tvg-name="cctv5+" tvg-logo="https://s21.ax1x.com/2025/04/08/pEg9jne.png" group-title="加台标",CCTV5+
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226445/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226198/index.m3u8
 #EXTINF:-1 tvg-shift="沈阳移动" tvg-id="CCTV-6电影高清" tvg-name="cctv6" tvg-logo="https://s21.ax1x.com/2025/04/09/pEgahKP.png" group-title="加台标",CCTV6
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226847/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227422/index.m3u8
 #EXTINF:-1 tvg-shift="沈阳移动" tvg-id="CCTV-7国防军事高清" tvg-name="cctv7" tvg-logo="https://s21.ax1x.com/2025/04/09/pEgaWvt.png" group-title="加台标",CCTV7
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226925/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226175/index.m3u8
 #EXTINF:-1 tvg-shift="沈阳移动" tvg-id="CCTV-8电视剧高清" tvg-name="cctv8" tvg-logo="https://s21.ax1x.com/2025/04/09/pEgagCd.png" group-title="加台标",CCTV8
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226902/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227431/index.m3u8
 #EXTINF:-1 tvg-shift=" " tvg-id="cctv-9" tvg-name="cctv9" tvg-logo="https://s21.ax1x.com/2025/04/09/pEga28A.png" group-title="加台标",CCTV9 
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226174/index.m3u8
 #EXTINF:-1 tvg-shift=" " tvg-id="cctv-10" tvg-name="cctv10" tvg-logo="https://s21.ax1x.com/2025/04/09/pEgaRgI.png" group-title="加台标",CCTV10
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226184/index.m3u8
 #EXTINF:-1 tvg-shift=" " tvg-id="cctv-11" tvg-name="cctv11" tvg-logo="https://s21.ax1x.com/2025/04/09/pEga4Df.png" group-title="加台标",CCTV11
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226851/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227443/index.m3u8
 #EXTINF:-1 tvg-shift=" " tvg-id="CCTV-12社会与法高清" tvg-name="cctv12" tvg-logo="https://s21.ax1x.com/2025/04/09/pEga5b8.png" group-title="加台标",CCTV12
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226439/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226183/index.m3u8
 #EXTINF:-1 tvg-shift=" " tvg-id="cctv-13" tvg-name="cctv13" tvg-logo="https://s21.ax1x.com/2025/04/09/pEgaoVS.png" group-title="加台标",CCTV13
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226853/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227446/index.m3u8
 #EXTINF:-1 tvg-shift=" " tvg-id="cctv-14" tvg-name="cctv14" tvg-logo="https://s21.ax1x.com/2025/04/10/pE2Sjl8.png" group-title="加台标",CCTV14
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226464/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226182/index.m3u8
 #EXTINF:-1 tvg-shift=" " tvg-id="cctv-15" tvg-name="cctv15" tvg-logo="https://s21.ax1x.com/2025/04/10/pE2Sv6S.png" group-title="加台标",CCTV15
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226855/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227549/index.m3u8
 #EXTINF:-1 tvg-id="cctv-16" tvg-name="cctv16" tvg-logo="https://s21.ax1x.com/2025/04/10/pE2SXSf.png" group-title="加台标",CCTV16
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226773/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8
 #EXTINF:-1 tvg-shift=" " tvg-id="cctv-17" tvg-name="cctv17" tvg-logo="https://s21.ax1x.com/2025/04/10/pE2SLfP.png" group-title="加台标",CCTV17
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226594/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226869/index.m3u8
 #EXTINF:-1 tvg-shift=" " tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://s21.ax1x.com/2025/04/10/pE2ppwj.png" group-title="加台标",辽宁卫视 
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226461/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8
 #EXTINF:-1 tvg-id="277" tvg-name="辽宁影视" tvg-logo="https://s21.ax1x.com/2025/04/10/pE2pSmQ.png" group-title="加台标",辽宁影视 
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226512/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227651/index.m3u8
 #EXTINF:-1 tvg-id="275" tvg-name="辽宁公共" tvg-logo="https://s21.ax1x.com/2025/04/10/pE2p9Ts.png" group-title="加台标",辽宁公共 
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226528/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227575/index.m3u8
 #EXTINF:-1 tvg-id="280" tvg-name="辽宁经济" tvg-logo="https://s21.ax1x.com/2025/04/10/pE2pPkn.png" group-title="加台标",辽宁经济 
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226504/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227645/index.m3u8
 #EXTINF:-1 tvg-shift=" " tvg-id="278" tvg-name="辽宁青少" tvg-logo="https://s21.ax1x.com/2025/04/11/pE2g3Px.png" group-title="加台标",辽宁青少 
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226473/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227655/index.m3u8
 #EXTINF:-1 tvg-id="279" tvg-name="辽宁生活" tvg-logo="https://s21.ax1x.com/2025/04/11/pE2gQaR.png" group-title="加台标",辽宁生活 
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226489/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227560/index.m3u8
 #EXTINF:-1 tvg-id="276" tvg-name="辽宁北方" tvg-logo="https://s21.ax1x.com/2025/04/11/pE2g8G6.png" group-title="加台标",辽宁北方 
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226515/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227551/index.m3u8
 #EXTINF:-1 tvg-id="281" tvg-name="辽宁体育" tvg-logo="https://s21.ax1x.com/2025/04/11/pE2gJxO.png" group-title="加台标",辽宁体育 
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226508/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227642/index.m3u8
 #EXTINF:-1 tvg-id="281" tvg-name="辽宁都市" tvg-logo="https://s21.ax1x.com/2025/04/11/pE2glI1.png" group-title="加台标",辽宁都市 
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226524/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227569/index.m3u8
 #EXTINF:-1 tvg-name="noepg" tvg-logo="https://s21.ax1x.com/2025/04/11/pE2gGRK.png" group-title="加台标",辽宁移动 
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226717/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227554/index.m3u8
 #EXTINF:-1 tvg-shift=" " tvg-id="6009" tvg-name="沈阳新闻" tvg-logo="https://s21.ax1x.com/2025/04/12/pERNqFe.png" group-title="加台标",沈阳新闻综合
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226593/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227563/index.m3u8
 #EXTINF:-1 tvg-shift=" " tvg-id="415347" tvg-name="盘锦新闻综合" tvg-logo="https://s21.ax1x.com/2025/04/03/pE6pG8O.png" group-title="加台标",盘锦新闻综合
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221227103/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227717/index.m3u8
 #EXTINF:-1 tvg-id="415347" tvg-name="盘锦都市" tvg-logo="https://s21.ax1x.com/2025/04/03/pE6pJ2D.png" group-title="加台标",盘锦都市
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221227178/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227659/index.m3u8
 #EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://s21.ax1x.com/2025/04/12/pERNLJH.png" group-title="加台标",家庭理财
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226538/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227596/index.m3u8
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://s21.ax1x.com/2025/04/12/pERNvQI.png" group-title="加台标",睛彩青少 
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221227140/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227587/index.m3u8
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://s21.ax1x.com/2025/04/12/pERNzOP.png" group-title="加台标",睛彩广场舞
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221227142/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227590/index.m3u8
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://s21.ax1x.com/2025/04/12/pERUpef.png" group-title="加台标",睛彩篮球 
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221227075/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227673/index.m3u8
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://s21.ax1x.com/2025/04/12/pERNxyt.png" group-title="加台标",睛彩竞技 
 #EXTINF:-1 tvg-name="中国交通" tvg-logo="https://gitee.com/FZYI/y-uan/raw/master/lg/中国交通.png" group-title="加台标",中国交通
-http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/88212772/1.m3u8
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227670/index.m3u8
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://gitee.com/FZYI/y-uan/raw/master/lg/天元围棋.png" group-title="加台标",天元围棋
 http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/32212269e72/1.m3u8
 #EXTINF:-1 tvg-name="峨眉电影" tvg-logo="https://gitee.com/FZYI/y-uan/raw/master/lg/峨眉电影.png" group-title="加台标",峨眉电影
