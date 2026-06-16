@@ -341,28 +341,18 @@ CCTV16-4K,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227709/index.m3u8
 咪视界31,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227381/index.m3u8
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$郑州酒店
 凤凰资讯,http://zmgd.zyrnet.com:8888/hls/109/index.m3u8$郑州酒店
-凤凰卫视中文台1,http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
-凤凰卫视中文台2,https://cdn6.163189.xyz/163189/fhzw
-凤凰卫视中文台3,http://cdn6.163189.xyz/163189/fhzw
-凤凰卫视资讯台1,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
-凤凰卫视资讯台2,https://cdn6.163189.xyz/163189/fhzx
-凤凰卫视资讯台3,http://cdn6.163189.xyz/163189/fhzx
-凤凰卫视香港台1,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
-凤凰卫视香港台2,https://cdn6.163189.xyz/163189/fhhk
-凤凰卫视香港台3,http://cdn6.163189.xyz/163189/fhhk
-凤凰中文A,http://r.jdshipin.com/cCCzW
-凤凰中文B,http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
-凤凰资讯A,http://r.jdshipin.com/0Rp07
-凤凰香港台A,http://r.jdshipin.com/yDoTN
-凤凰香港台B,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰香港台C,http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk TVB
-凤凰香港台D,http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk
-凤凰香港台E,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
-凤凰香港台F,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
-
-
-
-
+凤凰中文A,http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8
+凤凰资讯A,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
+凤凰香港A,http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8
+凤凰中文B,https://cdn6.163189.xyz/163189/fhzw
+凤凰资讯B,https://cdn6.163189.xyz/163189/fhzx
+凤凰香港B,https://cdn6.163189.xyz/163189/fhhk
+凤凰中文C,http://cdn6.163189.xyz/163189/fhzw
+凤凰资讯C,http://cdn6.163189.xyz/163189/fhzx
+凤凰香港C,http://cdn6.163189.xyz/163189/fhhk
+凤凰中文D,http://r.jdshipin.com/cCCzW
+凤凰资讯D,http://r.jdshipin.com/0Rp07
+凤凰香港D,http://r.jdshipin.com/yDo
 
 
 
